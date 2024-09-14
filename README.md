@@ -13,7 +13,7 @@ also learned how to create a function by
 
 
 @ Sep 12 2024
-I keept learning on GDscript. I learned how to create and define a variable and how to edit it by + - * /
+I kept learning on GDscript. I learned how to create and define a variable and how to edit it by + - * /
   var name = 10
   name*=10
   name-=5
@@ -24,3 +24,13 @@ I learned the special varible 'delta' which can help to overcome the frame diffe
 Also I learned how to use a if statement and '>' '<' '==' '!='
   if x>y
     y++
+
+@ Sep 12 2024
+I kept study GDScript. I learned the new code: 
+  vector2(x,y)  //it can edit x value and y value at the same time, both the scale and position
+  cell.x+=1  //infinite loop that add 1 to x
+  while x>y  //while loop, if the statement is true, it will keep running
+  for x in range(3)  //for loop, if the statement is ture it will keep running. in this example it will run if x <=2
+  range(n)  //create a list from 0 to n-1
+  array[x,y,z]  //create an array that contain x y and z
+  
