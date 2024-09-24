@@ -50,4 +50,13 @@ I kept learning GDScript. I learned the new code:
   get_local_mouse_position()  //get the mouse position
   array.append(x)  //add x to array
 The lesson is getting harder. lerp(), convert_to_world_corrdinates() are some code that I am confused with. 
-  
+
+@ Sep 24 2024
+I kept learning GDScript. I am 3 lessons away from finish. I learned the new code:
+  //Return the corresponding screen coordinates at the center of the cell.
+  func convert_to_world_coordinates (cell):
+    return cell*cell_size + cell_size / · 2
+  append()  //appeend the first thing in an array
+  pop_front()  //remove the first thing in an array
+  pop_back() //remove the last thing in an array
+  array_name [index] //get the value at index+1 in array 
