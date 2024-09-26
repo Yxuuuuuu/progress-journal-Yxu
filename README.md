@@ -60,3 +60,23 @@ I kept learning GDScript. I am 3 lessons away from finish. I learned the new cod
   pop_front()  //remove the first thing in an array
   pop_back() //remove the last thing in an array
   array_name [index] //get the value at index+1 in array 
+
+@ Sep 26
+I finished all lessons for GDScript. I learned the new code:
+  //set the value of an object in an array
+  var inventory = 
+  {
+    "shield": 5,
+    "healing heart": 3,
+    "sword": 1,
+  }
+  //edit the value of the object in the array inventory
+  inventory["object"] += 1
+  //for loop, print all items in the array inventory
+  for item_name in inventory:
+    print(item_name)
+I also learned value types, even though they are all called var, but you cannot add an int with an String
+  float=1.0: decimal
+  int=1: integer
+  String"Hi": word
+  Vector2()=Vector2(10,10): vector with 2 variables
