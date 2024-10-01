@@ -82,4 +82,7 @@ I also learned value types, even though they are all called var, but you cannot 
   Vector2()=Vector2(10,10): vector with 2 variables
 
 @Sep 27
-  because most people have not finish their lesson and we cannot discuss what type of game we are going to make next, so I just try Godot for today and learn some basic function of it. 
+because most people have not finish their lesson and we cannot discuss what type of game we are going to make next, so I just try Godot for today and learn some basic function of it. 
+
+@Oct 1
+I keept working on learning Godot, and i create a character that suppose to move up down left right and been able to jump, however there is a bug and I could never run my program. I will keep working on solve this problem next class. 
