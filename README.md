@@ -86,3 +86,6 @@ because most people have not finish their lesson and we cannot discuss what type
 
 @Oct 1
 I keept working on learning Godot, and i create a character that suppose to move up down left right and been able to jump, however there is a bug and I could never run my program. I will keep working on solve this problem next class. 
+
+@Oct 3
+I still cannot solve the bug I had last class. I am not sure if it's my laptop's problem, but I will redo everything next class. 
