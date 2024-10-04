@@ -89,3 +89,6 @@ I keept working on learning Godot, and i create a character that suppose to move
 
 @Oct 3
 I still cannot solve the bug I had last class. I am not sure if it's my laptop's problem, but I will redo everything next class. 
+
+@Oct 4
+I still cannot solve the bug I had last class. I ask Alya to share her file with to check if it's my laptop's problem or it's my program's problem. 
