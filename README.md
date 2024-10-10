@@ -95,3 +95,8 @@ I still cannot solve the bug I had last class. I ask Alya to share her file with
 
 @Oct 8
 I cannot open Alya's file either, so I just delete and redownload Godot, Roshini helped me to fix the animation (I need to press a button to start the animation), but I was still unable to do the movement. 
+
+@Oct 9
+Fieheeda helped me to solve the problem with the movement
+@Oct 10
+landscape
