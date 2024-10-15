@@ -91,12 +91,16 @@ I keept working on learning Godot, and i create a character that suppose to move
 I still cannot solve the bug I had last class. I am not sure if it's my laptop's problem, but I will redo everything next class. 
 
 @Oct 4
-I still cannot solve the bug I had last class. I ask Alya to share her file with to check if it's my laptop's problem or it's my program's problem. 
+I redo everything start from the beginning but I still cannot solve the bug I had last class. I ask Alya to share her file with to check if it's my laptop's problem or it's my program's problem. 
 
 @Oct 8
-I cannot open Alya's file either, so I just delete and redownload Godot, Roshini helped me to fix the animation (I need to press a button to start the animation), but I was still unable to do the movement. 
+I cannot open Alya's file either, so I just delete and redownload Godot, Roshini helped me to fix the animation (I need to press a button to start the animation), but I was still unable to do the movement, so I will work on that next time. 
 
 @Oct 9
-Fieheeda helped me to solve the problem with the movement
+Fieheeda helped me to solve the problem with the movement, I need to add the script to the main class some it can function both at character class and main class. So I kept watching the video and leaned how to add physics to a character or any other object. 
+
 @Oct 10
-landscape
+This class I kept watching the video and did the landscape, I learned how to use the draw function and insert png into the game and add physics to those, also learned how to add different property of lanscape. However due to I was solving that bug I had for 3 class and I was a little behind, so I will work on the video and learn Godot after school. 
+
+@Oct 15
+This class I watched the 2 video in the class notebook and discuss what we are doing next with the others. We will use the style of agile because it is quick and efficient, we can divide large project into small pieces so it is easier for us to manage.  
