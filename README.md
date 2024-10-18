@@ -104,3 +104,6 @@ This class I kept watching the video and did the landscape, I learned how to use
 
 @Oct 15
 This class I watched the 2 video in the class notebook and discuss what we are doing next with the others. We will use the style of agile because it is quick and efficient, we can divide large project into small pieces so it is easier for us to manage.  
+
+@Oct 18
+This class we are doing the requirements assignment to analysis functional requairments for a game, me and Fareedah are doing the movement and landing part. 
