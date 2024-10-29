@@ -107,3 +107,6 @@ This class I watched the 2 video in the class notebook and discuss what we are d
 
 @Oct 18
 This class we are doing the requirements assignment to analysis functional requairments for a game, me and Fareedah are doing the movement and landing part. 
+
+@Oct 29
+Godot
