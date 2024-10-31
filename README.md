@@ -110,3 +110,6 @@ This class we are doing the requirements assignment to analysis functional requa
 
 @Oct 29
 Godot
+
+@Oct 31
+portfolio
