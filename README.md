@@ -115,4 +115,4 @@ Godot
 portfolio
 
 @Nov 5
-Game design, discussion, Godot
+Game design, discussion, Godot, portfolio
