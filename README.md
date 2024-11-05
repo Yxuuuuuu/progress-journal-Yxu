@@ -113,3 +113,6 @@ Godot
 
 @Oct 31
 portfolio
+
+@Nov 5
+Game design, discussion, Godot
