@@ -120,5 +120,8 @@ Game design, discussion, Godot, portfolio
 @Nov 7
 Portfolio
 
+@Nov11-15
+portfolio
+
 @Nov 26 
 godot
