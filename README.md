@@ -5,12 +5,12 @@ The environment we pick is Godot, and the language we are going to learn is C#. 
 
 
 @ Sep 10 2024
-Due to there are no totorial for C# using Godot, so we changed our idea and decided to learn GDscript instead. We used the "GDScript from 0" to learn that. 
-I learned how to draw some basic shapes: 
-  move forward()
+Due to there is no tutorials for using C# with Godot, we decided to switch to GDScript instead. We began learning with the resource GDScript from 0.
+  I learned how to draw some basic shapes using:
+  move_forward()
   rotate()
-also learned how to create a function by
-  func name (parameter):
+I also learned how to create a function:
+  func name(parameter):
 
 
 @ Sep 12 2024
@@ -25,6 +25,9 @@ I learned the special varible 'delta' which can help to overcome the frame diffe
 Also I learned how to use a if statement and '>' '<' '==' '!='
   if x>y
     y++
+Variables in GDScript can store numbers, strings, and other types. This is similar to Java, but unlike Java, GDScript does not require type declarations like int or String. The var keyword is more flexible but requires careful use to avoid type errors.
+I also explored the special variable delta, which adjusts for frame rate differences on different computers. It’s a unique feature that different from Java. 
+In comparison, Java uses a similar syntax for conditions but requires {} for block definitions.
 
 
 @ Sep 12 2024
@@ -36,7 +39,12 @@ I kept study GDScript. I learned the new code:
   range(n)  //create a list from 0 to n-1
   array[x,y,z]  //create an array that contain x y and z
   for x in[a,b,c]  //create an for loop with an array
-
+GDScript loops and list feel easier than Java, where type declarations are required for for-each loops. 
+For example: in Java
+  for (int x : array) 
+  { System.out.println(x);
+  }
+  
 
 @ Sep 20 2024
 I kept learning GDScript. I learned the new code:
@@ -51,6 +59,7 @@ I kept learning GDScript. I learned the new code:
   array.append(x)  //add x to array
 The lesson is getting harder. lerp(), convert_to_world_corrdinates() are some code that I am confused with. 
 
+
 @ Sep 24 2024
 I kept learning GDScript. I am 3 lessons away from finish. I learned the new code:
   //Return the corresponding screen coordinates at the center of the cell.
@@ -60,6 +69,8 @@ I kept learning GDScript. I am 3 lessons away from finish. I learned the new cod
   pop_front()  //remove the first thing in an array
   pop_back() //remove the last thing in an array
   array_name [index] //get the value at index+1 in array 
+GDScript syntax for array is simpler since it doesn't require different data type declarations.
+
 
 @ Sep 26
 I finished all lessons for GDScript. I learned the new code:
@@ -109,7 +120,7 @@ This class I watched the 2 video in the class notebook and discuss what we are d
 This class we are doing the requirements assignment to analysis functional requairments for a game, me and Fareedah are doing the movement and landing part. 
 
 @Oct 29
-Godot
+Exploring Godot, learn how to inprove the physics and do character movement. 
 
 @Oct 31
 portfolio
